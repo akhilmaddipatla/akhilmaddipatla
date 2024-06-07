@@ -9,7 +9,7 @@ I am Data Science Graduate student from Northeastern University.
 - 🤔 I’m looking for help with: Data Mining, Statistical Modelling.
 - 💬 Ask me about: Database Management and Systems, Machine learning Algorithms.
 - 📫 How to reach me: https://www.linkedin.com/in/akhil-chowdary-m-13a840166/ 
--     email: m.akhil444@gmail.com
+-     email: akhil.maddipatla01@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I was awarded the best New comer Award for 2019 at EXL and I cant swim :).
 
